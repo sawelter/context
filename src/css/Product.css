@@ -2,8 +2,8 @@
 	border-radius: 5px;
 	background: white;
 	transition: 0.2s ease-in-out;
-	width: 333px;
-	margin: 30px;
+	width: 20%;
+	margin: 1%;
 }
 
 .product:hover {
@@ -28,7 +28,7 @@
 	object-fit: contain;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
-	max-width: 333px;
+	max-width: 100%;
 }
 
 .product button {
